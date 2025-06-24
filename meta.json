@@ -1,26 +1,32 @@
 [
     {
         "name": "English (UmaTL)",
-        "index": "https://raw.githubusercontent.com/UmaTL/hachimi-tl-en/release/index.json"
+        "index": "https://raw.githubusercontent.com/UmaTL/hachimi-tl-en/release/index.json",
+        "contributors": "noccu (+ maintainer), LotoDS, CatNipHoarder + Holo, Chiwawa, Kasey, fling, KevinVG207, Rekoiru, … (tinyurl.com/UmaTLCredits)"
     },
     {
         "name": "English (Hachimi)",
-        "index": "https://files.leadrdrk.com/hachimi/tl-en.json"
+        "index": "https://files.leadrdrk.com/hachimi/tl-en.json",
+        "contributors": "UmaTL, GameTora, KevinVG207, Rekoiru, flingtest"
     },
     {
         "name": "繁體中文",
-        "index": "https://files.leadrdrk.com/hachimi/tl-zh-tw.json"
+        "index": "https://files.leadrdrk.com/hachimi/tl-zh-tw.json",
+        "contributors": "yotv2000tw (+维护者), TLG, 官方, seanpai96, asps76482, _akito@ytb, project90418512@twt, … (tinyurl.com/TLGCredits)"
     },
     {
         "name": "繁體中文（大陸加速鏡像）",
-        "index": "https://fuwahachimi-1301774344.cos.ap-guangzhou.myqcloud.com/transfile/zh-tw/index.json"
+        "index": "https://fuwahachimi-1301774344.cos.ap-guangzhou.myqcloud.com/transfile/zh-tw/index.json",
+        "contributors": "yotv2000tw (+维护者), TLG, 官方, seanpai96, asps76482, _akito@ytb, project90418512@twt, … (tinyurl.com/TLGCredits)"
     },
     {
         "name": "简体中文",
-        "index": "https://files.leadrdrk.com/hachimi/tl-zh-cn.json"
+        "index": "https://files.leadrdrk.com/hachimi/tl-zh-cn.json",
+        "contributors": "yingyingyingqwq (+维护者), TLG, 官方, Minami Chiwa, Chihyuen, 1oschi, … (tinyurl.com/TLGCredits)"
     },
     {
         "name": "简体中文（大陆加速镜像）",
-        "index": "https://fuwahachimi-1301774344.cos.ap-guangzhou.myqcloud.com/transfile/zh-cn/index.json"
+        "index": "https://fuwahachimi-1301774344.cos.ap-guangzhou.myqcloud.com/transfile/zh-cn/index.json",
+        "contributors": "yingyingyingqwq (+维护者), TLG, 官方, Minami Chiwa, Chihyuen, 1oschi, … (tinyurl.com/TLGCredits)"
     }
 ]
