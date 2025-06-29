@@ -2,31 +2,31 @@
     {
         "name": "English (UmaTL)",
         "index": "https://raw.githubusercontent.com/UmaTL/hachimi-tl-en/release/index.json",
-        "contributors": "noccu (+ maintainer), LotoDS, CatNipHoarder + Holo, Chiwawa, Kasey, fling, KevinVG207, Rekoiru, … (tinyurl.com/UmaTLCredits)"
+        "short_desc": "Translates all parts, lore & accuracy focus. Terms might change sometimes and not match community. Source: Original, GameTora, Community. Contributors: noccu (+ maintainer), LotoDS, CatNipHoarder + Holo, Chiwawa, Kasey, … (tinyurl.com/UmaTLCredits)"
     },
     {
         "name": "English (Hachimi)",
         "index": "https://files.leadrdrk.com/hachimi/tl-en.json",
-        "contributors": "UmaTL, GameTora, KevinVG207, Rekoiru, flingtest"
+        "short_desc": "Translates mostly main parts, imported from other projects. Terms might remain more stable. Currently not updated. Source: Old UmaTL (tinyurl.com/UmaTLCredits), GameTora. Contributors: KevinVG207, Rekoiru, fling"
     },
     {
         "name": "繁體中文",
         "index": "https://files.leadrdrk.com/hachimi/tl-zh-tw.json",
-        "contributors": "yotv2000tw (+维护者), TLG, 官方, seanpai96, asps76482, _akito@ytb, project90418512@twt, … (tinyurl.com/TLGCredits)"
+        "short_desc": "來源：Trainers' Legend G (tinyurl.com/TLGCredits), 官方. 貢獻者：yotv2000tw (+維護者), seanpai96, asps76482, _akito@ytb, project90418512@twt, …"
     },
     {
         "name": "繁體中文（大陸加速鏡像）",
-        "index": "https://fuwahachimi-1301774344.cos.ap-guangzhou.myqcloud.com/transfile/zh-tw/index.json",
-        "contributors": "yotv2000tw (+维护者), TLG, 官方, seanpai96, asps76482, _akito@ytb, project90418512@twt, … (tinyurl.com/TLGCredits)"
+        "index": "https://fuwadl.yingqwq.cn/zh-tw/index/index.json",
+        "short_desc": "來源：Trainers' Legend G (tinyurl.com/TLGCredits), 官方. 貢獻者：yotv2000tw (+維護者), seanpai96, asps76482, _akito@ytb, project90418512@twt, …"
     },
     {
         "name": "简体中文",
         "index": "https://files.leadrdrk.com/hachimi/tl-zh-cn.json",
-        "contributors": "yingyingyingqwq (+维护者), TLG, 官方, Minami Chiwa, Chihyuen, 1oschi, … (tinyurl.com/TLGCredits)"
+        "short_desc": "来源：Trainers' Legend G (tinyurl.com/TLGCredits), 官方. 贡献者：yingyingyingqwq (+维护者), 1oschi, ChiKo-qwq, … "
     },
     {
         "name": "简体中文（大陆加速镜像）",
-        "index": "https://fuwahachimi-1301774344.cos.ap-guangzhou.myqcloud.com/transfile/zh-cn/index.json",
-        "contributors": "yingyingyingqwq (+维护者), TLG, 官方, Minami Chiwa, Chihyuen, 1oschi, … (tinyurl.com/TLGCredits)"
+        "index": "https://fuwadl.yingqwq.cn/zh-cn/index/index.json",
+        "short_desc": "来源：Trainers' Legend G (tinyurl.com/TLGCredits), 官方. 贡献者：yingyingyingqwq (+维护者), 1oschi, ChiKo-qwq, … "
     }
 ]
