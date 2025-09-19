@@ -1,8 +1,8 @@
 [
-   {  "name": "HachimiID (UmaChimi)",
+    {   "name": "UmaChimiID (Bahasa Indonesia)",
         "index": "https://raw.githubusercontent.com/Xmatography/hachimi-ID/release/index.json",
-        "short_desc": "Di Terjemahkan Oleh Xmatography ( UI ) VinPewPew ( Story ) MitsuMasu ( Song Lyrics ) , Progress Terus Update Dan Pengoptimalan, Join Komunitas UTA untuk Update lebih lanjut"
-   },
+        "short_desc": "UmachimiID Beta , Always Update."
+    },
     {
         "name": "English (UmaTL)",
         "index": "https://raw.githubusercontent.com/UmaTL/hachimi-tl-en/release/index.json",
@@ -42,10 +42,5 @@
         "name": "简体中文（大陆加速镜像）",
         "index": "https://fuwadl.yingqwq.cn/zh-cn/index/index.json",
         "short_desc": "来源：Trainers' Legend G (tinyurl.com/TLGCredits), 官方. 贡献者：yingyingyingqwq (+维护者), 1oschi, ChiKo-qwq, … "
-    },
-    {
-        "name": "Bahasa Indonesia",
-        "index": "https://raw.githubusercontent.com/FahriAdison/hachimi-id/release/index.json",
-        "short_desc": "Terjemahan Inggris -> Indonesia. Asal: UmaTL. Kontributor: FahriAdison (+ Pemelihara), R4nc3, … "
     }
 ]
