@@ -1,4 +1,8 @@
 [
+   {  "name": "HachimiID (UmaChimi)",
+        "index": "https://raw.githubusercontent.com/Xmatography/hachimi-ID/release/index.json",
+        "short_desc": "Di Terjemahkan Oleh Xmatography ( UI ) VinPewPew ( Story ) MitsuMasu ( Song Lyrics ) , Progress Terus Update Dan Pengoptimalan, Join Komunitas UTA untuk Update lebih lanjut"
+   }
     {
         "name": "English (UmaTL)",
         "index": "https://raw.githubusercontent.com/UmaTL/hachimi-tl-en/release/index.json",
