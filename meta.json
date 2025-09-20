@@ -30,6 +30,12 @@
         "short_desc": "來源：Trainers' Legend G (tinyurl.com/TLGCredits), 官方. 貢獻者：yotv2000tw (+維護者), seanpai96, asps76482, _akito@ytb, project90418512@twt, …"
     },
     {
+        "name": "UmaChimiID ( Indonesian + Local )",
+        "index": "https://raw.githubusercontent.com/Xmatography/umachimi-id/release/index.json",
+        "short_desc": "Translate Bahasa Indonesia + Bahasa Lokal ( slang ) Contributor : Xmatography , Vin , MisuMasu , … "
+    }
+    {
+    
         "name": "简体中文",
         "index": "https://files.leadrdrk.com/hachimi/tl-zh-cn.json",
         "short_desc": "来源：Trainers' Legend G (tinyurl.com/TLGCredits), 官方. 贡献者：yingyingyingqwq (+维护者), 1oschi, ChiKo-qwq, … "
