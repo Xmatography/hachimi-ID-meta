@@ -4,11 +4,6 @@
         "index": "https://raw.githubusercontent.com/UmaTL/hachimi-tl-en/release/index.json",
         "short_desc": "Translates all parts, lore & accuracy focus. Terms might change sometimes and not match community. Source: Original, GameTora, Community. Contributors: noccu (+ maintainer), LotoDS, CatNipHoarder + Holo, Chiwawa, Kasey, … (tinyurl.com/UmaTLCredits)"
     },
-     {
-        "name": "Bahasa Indonesia - UmachimiID",
-        "index": "https://raw.githubusercontent.com/Xmatography/umachimi-id/release/index.json",
-        "short_desc": "Terjemahan Inggris -> Indonesia. Asal: UmaTL. Kontributor: Xmatography , FahriAdison ( Maintainer ), MisuMatsu ( Story ) , VinPewPew ( Main Story ) c3, … "
-    },
     {
         "name": "English (UmaTL, Skill Data)",
         "index": "https://raw.githubusercontent.com/UmaTL/hachimi-tl-en-sd/release/index.json",
@@ -30,12 +25,6 @@
         "short_desc": "來源：Trainers' Legend G (tinyurl.com/TLGCredits), 官方. 貢獻者：yotv2000tw (+維護者), seanpai96, asps76482, _akito@ytb, project90418512@twt, …"
     },
     {
-        "name": "UmaChimiID ( Indonesian + Local )",
-        "index": "https://raw.githubusercontent.com/Xmatography/umachimi-id/release/index.json",
-        "short_desc": "Translate Bahasa Indonesia + Bahasa Lokal ( slang ) Contributor : Xmatography , Vin , MisuMasu , … "
-    }
-    {
-    
         "name": "简体中文",
         "index": "https://files.leadrdrk.com/hachimi/tl-zh-cn.json",
         "short_desc": "来源：Trainers' Legend G (tinyurl.com/TLGCredits), 官方. 贡献者：yingyingyingqwq (+维护者), 1oschi, ChiKo-qwq, … "
@@ -45,5 +34,9 @@
         "index": "https://fuwadl.yingqwq.cn/zh-cn/index/index.json",
         "short_desc": "来源：Trainers' Legend G (tinyurl.com/TLGCredits), 官方. 贡献者：yingyingyingqwq (+维护者), 1oschi, ChiKo-qwq, … "
     },
-   
+    {
+        "name": "UmaChimiID (Bahasa Indonesia)",
+        "index": "https://raw.githubusercontent.com/Xmatography/umachimi-id/release/index.json",
+        "short_desc": "UmachimiID Beta , Always Update Contributor : Xmatography , FahriAdison (UI,maintener),MisuMasu(lyrics),Arsh."
+    }
 ]
