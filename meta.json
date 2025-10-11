@@ -4,6 +4,11 @@
         "index": "https://raw.githubusercontent.com/UmaTL/hachimi-tl-en/release/index.json",
         "short_desc": "Translates all parts, lore & accuracy focus. Terms might change sometimes and not match community. Source: Original, GameTora, Community. Contributors: noccu (+ maintainer), LotoDS, CatNipHoarder + Holo, Chiwawa, Kasey, … (tinyurl.com/UmaTLCredits)"
     },
+     {
+        "name": "Bahasa Indonesia - UmachimiID",
+        "index": "https://raw.githubusercontent.com/Xmatography/umachimi-id/release/index.json",
+        "short_desc": "Terjemahan Inggris -> Indonesia. Asal: UmaTL. Kontributor: FahriAdison (+ Pemelihara), R4nc3, … "
+    },
     {
         "name": "English (UmaTL, Skill Data)",
         "index": "https://raw.githubusercontent.com/UmaTL/hachimi-tl-en-sd/release/index.json",
@@ -34,9 +39,5 @@
         "index": "https://fuwadl.yingqwq.cn/zh-cn/index/index.json",
         "short_desc": "来源：Trainers' Legend G (tinyurl.com/TLGCredits), 官方. 贡献者：yingyingyingqwq (+维护者), 1oschi, ChiKo-qwq, … "
     },
-    {
-        "name": "Bahasa Indonesia",
-        "index": "https://raw.githubusercontent.com/FahriAdison/hachimi-id/release/index.json",
-        "short_desc": "Terjemahan Inggris -> Indonesia. Asal: UmaTL. Kontributor: FahriAdison (+ Pemelihara), R4nc3, … "
-    }
+   
 ]
